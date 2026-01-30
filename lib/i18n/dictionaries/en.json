@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Home",
+    "resume": "Resume",
+    "students": "Students"
+  },
+  "home": {
+    "greeting": "Hello, I'm MMR",
+    "name": "Mohammad Mahdi Rezapur",
+    "role": "Computer Engineering Student",
+    "bio": "Computer Engineering student passionate about web development and programming. Currently learning and building exciting projects with modern technologies.",
+    "viewResume": "View Resume",
+    "viewCourses": "View Courses",
+    "scrollDown": "Scroll"
+  },
+  "resume": {
+    "title": "Resume",
+    "about": "About Me",
+    "aboutText": "Computer Engineering student focused on web development",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "downloadResume": "Download PDF",
+    "present": "Present"
+  },
+  "students": {
+    "title": "Courses",
+    "subtitle": "Educational Resources for Students",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "lesson": "Lesson",
+    "downloadMaterials": "Download Materials",
+    "noMaterials": "No materials available",
+    "backToCourses": "Back to Courses",
+    "viewCourse": "View Course"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred"
+  }
+}
